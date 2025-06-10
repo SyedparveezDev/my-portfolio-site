@@ -145,7 +145,7 @@ export default function Portfolio() {
 
   const stats = [
     {
-      icon: <Code className="h-8 w-8" />,
+      icon: <Code class="h-8 w-8" />,
       number: "50+",
       label: "Projects Completed",
       description: "Successfully delivered projects",
