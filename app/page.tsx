@@ -141,7 +141,7 @@ export default function Portfolio() {
     { name: "Full-Stack Developer", issuer: "Hostup Cloud Technologies Private Limited ", year: "2025" },
     { name: "Fundamentals Of CSS", issuer: "Coding Ninjas", year: "2023" },
     { name: "Fundamentals of Html", issuer: "Coding Ninjas", year: "2023" },
-    { name: " Data Analytics and Visualization Job Simulation", issuer: "Coding Ninjas", year: "2023" },
+    { name: " Data Analytics and Visualization Job Simulation", issuer: "Accenture", year: "2024" },
   ]
 
   const stats = [
