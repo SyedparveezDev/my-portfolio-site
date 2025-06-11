@@ -147,25 +147,25 @@ export default function Portfolio() {
   const stats = [
     {
       icon: <Code className="h-8 w-8" />,
-      number: "50+",
+      number: "10+",
       label: "Projects Completed",
-      description: "Successfully delivered projects",
+      description: "Successfully projects",
     },
     {
       icon: <Calendar className="h-8 w-8" />,
-      number: "3+",
+      number: "1+",
       label: "Years Experience",
       description: "Professional development",
     },
     {
       icon: <Users className="h-8 w-8" />,
-      number: "100%",
-      label: "Client Satisfaction",
+      // number: "100%",
+      // label: "Client Satisfaction",
       description: "Happy clients & reviews",
     },
     {
       icon: <Trophy className="h-8 w-8" />,
-      number: "15+",
+      // number: "15+",
       label: "Awards & Recognition",
       description: "Industry achievements",
     },
@@ -890,7 +890,7 @@ export default function Portfolio() {
                     </div>
                     <div>
                       <p className="font-bold text-slate-900 dark:text-white text-lg">LinkedIn</p>
-                      <p className="text-slate-600 dark:text-slate-400">linkedin.com/in/johndoe</p>
+                      <p className="text-slate-600 dark:text-slate-400">www.linkedin.com/in/parveezafham</p>
                     </div>
                   </div>
 
@@ -900,7 +900,7 @@ export default function Portfolio() {
                     </div>
                     <div>
                       <p className="font-bold text-slate-900 dark:text-white text-lg">GitHub</p>
-                      <p className="text-slate-600 dark:text-slate-400">github.com/johndoe</p>
+                      <p className="text-slate-600 dark:text-slate-400">github.com/SyedparveezDev</p>
                     </div>
                   </div>
                 </div>
