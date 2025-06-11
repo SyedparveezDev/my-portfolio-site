@@ -81,7 +81,7 @@ export default function Portfolio() {
       image: "/Campushire.png",
       features: ["Real-time messaging", "Event management", "AI recommendations", "User authentication"],
       status: "Live",
-      users: "10+ active users",
+      users: "Final Year Project",
     },
     {
       title: "API-Development-and-Integration",
