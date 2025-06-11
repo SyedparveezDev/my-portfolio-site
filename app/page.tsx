@@ -64,11 +64,11 @@ export default function Portfolio() {
   }, [darkMode])
 
   const skills = {
-    Frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Vue.js", "Framer Motion"],
-    Backend: ["Node.js", "Express", "Python", "Java", "REST APIs"],
+    Frontend: ["React", "Next.js", "javascript", "TypeScript", "Tailwind CSS", "Vue.js", "Framer Motion"],
+    Backend: ["Node.js", "Python", "Java", "REST APIs"],
     Database: ["MongoDB", "MySQL", "Supabase"],
     DevOps: ["Docker", "AWS", "Vercel", "GitHub Actions"],
-    Tools: ["Git", "VS Code", "Figma"],
+    Tools: ["Git", "VS Code", "Figma", "Cursor"],
   }
 
   const projects = [
