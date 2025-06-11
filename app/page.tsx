@@ -138,9 +138,10 @@ export default function Portfolio() {
   ]
 
   const certifications = [
-    { name: "AWS Certified Developer", issuer: "Amazon Web Services", year: "2023" },
-    { name: "Full-Stack Web Development", issuer: "freeCodeCamp", year: "2022" },
-    { name: "Advanced React Patterns", issuer: "Epic React", year: "2023" },
+    { name: "Full-Stack Developer", issuer: "Hostup Cloud Technologies Private Limited ", year: "2025" },
+    { name: "Fundamentals Of CSS", issuer: "Coding Ninjas", year: "2023" },
+    { name: "Fundamentals of Html", issuer: "Coding Ninjas", year: "2023" },
+    { name: " Data Analytics and Visualization Job Simulation", issuer: "Coding Ninjas", year: "2023" },
   ]
 
   const stats = [
