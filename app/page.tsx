@@ -85,11 +85,11 @@ export default function Portfolio() {
     },
     {
       title: "API-Development-and-Integration",
-      description: "Modern e-commerce solution with advanced analytics and payment integration",
+      description: "This website acts as a technical hub for showcasing modern API development practices.",
       tech: ["React", "Express", "PostgreSQL", "Stripe", "Redis"],
       github: "https://github.com/SyedparveezDev/API-Development-and-Integration",
       demo: "https://v0-api-development-and-integration.vercel.app/",
-      image: "/ecommerce.png",
+      image: "/API-Development-and-Integration.png",
       features: ["Payment processing", "Inventory management", "Analytics dashboard", "Multi-vendor support"],
       status: "In Development",
       users: "Beta testing",
