@@ -91,8 +91,8 @@ export default function Portfolio() {
       demo: "https://v0-api-development-and-integration.vercel.app/",
       image: "/API-Development-and-Integration.png",
       features: ["Secure Authentication", "PostgreSQL Integration", "Redis Caching", "API Documentation"],
-      status: "In Development",
-      users: "Beta testing",
+      status: "Live",
+      users: "demo or prototype site",
     },
     {
       title: "Task Management App",
