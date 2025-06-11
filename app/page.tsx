@@ -924,6 +924,7 @@ export default function Portfolio() {
                     variant="ghost"
                     size="sm"
                     className="w-12 h-12 rounded-full glass-effect hover:bg-electric-500 hover:text-white transition-all duration-300"
+                    onClick={() => window.open("https://github.com/SyedparveezDev", "_blank")}
                   >
                     <Github className="h-5 w-5 text-slate-600 dark:text-slate-400" />
                   </Button>
@@ -931,6 +932,7 @@ export default function Portfolio() {
                     variant="ghost"
                     size="sm"
                     className="w-12 h-12 rounded-full glass-effect hover:bg-electric-500 hover:text-white transition-all duration-300"
+                    onClick={() => window.open("https://www.linkedin.com/in/parveezafham/", "_blank")}
                   >
                     <Linkedin className="h-5 w-5 text-slate-600 dark:text-slate-400" />
                   </Button>
@@ -938,6 +940,7 @@ export default function Portfolio() {
                     variant="ghost"
                     size="sm"
                     className="w-12 h-12 rounded-full glass-effect hover:bg-electric-500 hover:text-white transition-all duration-300"
+                    onClick={() => window.open("mailto:syedparveezdevlop@gmail.com", "_blank")}
                   >
                     <Mail className="h-5 w-5 text-slate-600 dark:text-slate-400" />
                   </Button>
