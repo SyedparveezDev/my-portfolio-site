@@ -90,7 +90,7 @@ export default function Portfolio() {
       github: "https://github.com/SyedparveezDev/API-Development-and-Integration",
       demo: "https://v0-api-development-and-integration.vercel.app/",
       image: "/API-Development-and-Integration.png",
-      features: ["Payment processing", "Inventory management", "Analytics dashboard", "Multi-vendor support"],
+      features: ["Secure Authentication", "PostgreSQL Integration", "Redis Caching", "API Documentation"],
       status: "In Development",
       users: "Beta testing",
     },
