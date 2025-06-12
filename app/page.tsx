@@ -111,7 +111,7 @@ export default function Portfolio() {
     {
       title: "Software Development Enginner (SDE) Intern",
       company: "Bluestock Fintech.",
-      period: "Jun 2025 - Jul 2025",
+      period: "Jun 2025 - Present",
       description:
         "Developed responsive web applications and collaborated with design teams to create exceptional user experiences",
       tech: ["React", "JavaScript", "SCSS", "Figma", "Git"],
