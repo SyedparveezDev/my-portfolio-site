@@ -412,7 +412,7 @@ export default function Portfolio() {
                   className="relative"
                 >
                   {/* Circular photo container with improved styling */}
-                  <div className="relative w-[280px] h-[280px] sm:w-[320px] sm:h-[320px] lg:w-[360px] lg:h-[360px] overflow-hidden">
+                  <div className="relative w-[300px] h-[300px] sm:w-[320px] sm:h-[320px] lg:w-[360px] lg:h-[360px] overflow-hidden">
                     {/* Main photo */}
                     <div className="absolute inset-0 rounded-full overflow-hidden">
                       <Image
@@ -452,7 +452,7 @@ export default function Portfolio() {
                   {/* Stats */}
                   <div className="space-y-4">
                     <div className="text-center p-4 bg-white/10 backdrop-blur-sm rounded-2xl border border-white/20">
-                      <div className="text-3xl font-bold text-white">50+</div>
+                      <div className="text-3xl font-bold text-white">10+</div>
                       <div className="text-white/80 text-sm">Projects</div>
                     </div>
                     <div className="text-center p-4 bg-white/10 backdrop-blur-sm rounded-2xl border border-white/20">
