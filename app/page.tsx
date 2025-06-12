@@ -456,7 +456,7 @@ export default function Portfolio() {
                       <div className="text-white/80 text-sm">Projects</div>
                     </div>
                     <div className="text-center p-4 bg-white/10 backdrop-blur-sm rounded-2xl border border-white/20">
-                      <div className="text-3xl font-bold text-white">3+</div>
+                      <div className="text-3xl font-bold text-white">1+</div>
                       <div className="text-white/80 text-sm">Years Exp</div>
                     </div>
                     <div className="text-center p-4 bg-white/10 backdrop-blur-sm rounded-2xl border border-white/20">
