@@ -526,7 +526,7 @@ export default function Portfolio() {
               transition={{ duration: 0.8 }}
             >
               <div className="relative max-w-md mx-auto lg:max-w-none">
-                <div className="relative w-[280px] h-[280px] sm:w-[320px] sm:h-[320px] mx-auto overflow-hidden rounded-full">
+                <div className="relative w-[300px] h-[300px] sm:w-[350px] sm:h-[350px] mx-auto overflow-hidden rounded-full">
                   <Image
                     src="\About.jpeg"
                     alt="Syed Parveez Afham - Full Stack Developer"
@@ -565,7 +565,7 @@ export default function Portfolio() {
                 </div>
                 <div className="text-center p-4 glass-effect rounded-xl">
                   <Star className="h-8 w-8 text-coral-500 mx-auto mb-2" />
-                  <div className="font-bold text-slate-900 dark:text-white">4.9 Rating</div>
+                  <div className="font-bold text-slate-900 dark:text-white">Upcomming Ratings</div>
                   <div className="text-sm text-slate-600 dark:text-slate-400">Client Reviews</div>
                 </div>
               </div>
