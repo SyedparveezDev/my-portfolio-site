@@ -528,7 +528,7 @@ export default function Portfolio() {
               <div className="relative max-w-md mx-auto lg:max-w-none">
                 <div className="relative w-[280px] h-[280px] sm:w-[320px] sm:h-[320px] mx-auto overflow-hidden rounded-full">
                   <Image
-                    src="/profile-photo.jpeg"
+                    src="\About.jpeg"
                     alt="Syed Parveez Afham - Full Stack Developer"
                     fill
                     className="object-cover scale-110"
