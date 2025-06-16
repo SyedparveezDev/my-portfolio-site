@@ -115,7 +115,7 @@ export default function Portfolio() {
       description:
         "Developed responsive web applications and collaborated with design teams to create exceptional user experiences",
       tech: ["React", "JavaScript", "SCSS", "Figma", "Git"],
-      achievements: ["3+ successful projects", "98% client satisfaction", "Improved load times by 45%"],
+      achievements: ["100% backend logic handled via REST APIs", "98% client satisfaction", "Improved load times by 45%"],
     },
     {
       title: "Full-Stack Developer Intern",
