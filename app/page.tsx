@@ -47,8 +47,8 @@ export default function Portfolio() {
   // Download resume function
   const downloadResume = () => {
     const link = document.createElement("a")
-    link.href = "Syed_Parveez_Afham_Resume.pdf"
-    link.download = "Syed_Parveez_Afham_Resume.pdf"
+    link.href = "/Syed Parveez Afham.pdf"
+    link.download = "/Syed Parveez Afham.pdf"
     link.target = "_blank"
     document.body.appendChild(link)
     link.click()
