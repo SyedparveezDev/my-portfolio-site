@@ -112,10 +112,9 @@ export default function Portfolio() {
       title: "Software Development Enginner (SDE) Intern",
       company: "Bluestock Fintech.",
       period: "Jun 2025 - Present",
-      description:
-        "Developed responsive web applications and collaborated with design teams to create exceptional user experiences",
+      description:"Designed and developed a full-stack IPO listing and management platform using Django, PostgreSQL, and REST API architecture. The project enables users to view and filter upcoming, ongoing, and listed IPOs with real-time data access.",
       tech: ["React", "JavaScript", "SCSS", "Figma", "Git"],
-      achievements: ["100% backend logic handled via REST APIs", "80% UI interactivity handled with JS + Bootstrap filters", "Improved load times by 45%"],
+      achievements: ["100% backend logic handled via REST APIs", "80% UI interactivity handled with JS + Bootstrap", "Improved load times by 45%"],
     },
     {
       title: "Full-Stack Developer Intern",
