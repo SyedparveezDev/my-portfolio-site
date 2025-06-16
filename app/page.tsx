@@ -100,7 +100,7 @@ export default function Portfolio() {
       tech: ["Javascript", "Python", "MySQL", "Django", " Postman for API testing"],
       github: "https://github.com/SyedparveezDev/ipo-web-app",
       demo: "Comming Soon",
-      image: "/taskmanager.png",
+      image: "/Ipo-web-app.png",
       features: ["Team collaboration", "Real-time updates", "File sharing", "Time tracking"],
       status: "Live",
       users: "200+ teams",
