@@ -96,8 +96,8 @@ export default function Portfolio() {
     },
     {
       title: "IPO-WEB-APP",
-      description: "Collaborative task management with team features and productivity analytics",
-      tech: ["Vue.js", "Python", "MySQL", "Docker", "WebRTC"],
+      description: "IPO Web App is a comprehensive platform for managing Initial Public Offerings (IPOs) with real-time updates and analytics.",
+      tech: ["Javascript", "Python", "MySQL", "Django", " Postman for API testing"],
       github: "https://github.com/yourusername/taskmanager",
       demo: "https://taskmanager-demo.vercel.app",
       image: "/taskmanager.png",
