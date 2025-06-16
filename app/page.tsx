@@ -412,14 +412,14 @@ export default function Portfolio() {
                   className="relative"
                 >
                   {/* Circular photo container with improved styling */}
-                  <div className="relative w-[250px] h-[250px] sm:w-[320px] sm:h-[320px] lg:w-[360px] lg:h-[360px] overflow-hidden">
+                  <div className="relative w-[360px] h-[360px] sm:w-[280px] sm:h-[280px] lg:w-[360px] lg:h-[360px] overflow-hidden">
                     {/* Main photo */}
                     <div className="absolute inset-0 rounded-full overflow-hidden">
                       <Image
                         src="/profile-photo.jpeg"
                         alt="Syed Parveez Afham"
                         fill
-                        className="object-cover scale-110"
+                        className="object-cover scale-100"
                         priority
                         style={{ objectPosition: "center 20%" }}
                       />
