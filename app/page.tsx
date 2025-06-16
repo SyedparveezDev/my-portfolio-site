@@ -95,7 +95,7 @@ export default function Portfolio() {
       users: "demo or prototype site",
     },
     {
-      title: "Task Management App",
+      title: "IPO-WEB-APP",
       description: "Collaborative task management with team features and productivity analytics",
       tech: ["Vue.js", "Python", "MySQL", "Docker", "WebRTC"],
       github: "https://github.com/yourusername/taskmanager",
