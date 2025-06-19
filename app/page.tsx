@@ -98,7 +98,7 @@ export default function Portfolio() {
       title: "IPO-WEB-APP",
       description: "IPO Web App is a comprehensive platform for managing Initial Public Offerings (IPOs) with real-time updates and analytics.",
       tech: ["Javascript", "Python", "MySQL", "Django", " Postman for API testing"],
-      github: "https://github.com/SyedparveezDev/ipo-web-app",
+      github: "https://github.com/SyedparveezDev/IPO-Web-App-Development",
       demo: "#",
       image: "/Ipo-web-app.png",
       features: ["Authentication System", "Watchlist & Alerts", "IPO Calendar with Filters", "Company Profiles & Analytics"],
