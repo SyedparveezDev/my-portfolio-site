@@ -131,7 +131,7 @@ export default function Portfolio() {
       period: "May 2024 - June 2024",
       description:
         "Developed responsive web applications and collaborated with design teams to create exceptional user experiences",
-      tech: ["React", "JavaScript", "SCSS", "Figma", "Git"],
+      tech: ["React", "JavaScript", "SCSS", "Figma", "Git", "HTML"],
       achievements: ["3+ successful projects", "98% client satisfaction", "Improved load times by 45%"],
     },
   ]
